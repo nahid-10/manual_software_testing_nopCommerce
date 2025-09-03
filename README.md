@@ -1,6 +1,6 @@
 # Manual Software Testing - nopCommerce
 
-This repository contains **manual test cases, test scenarios, and test documentation** for the open-source eCommerce platform [nopCommerce](https://www.nopcommerce.com/).
+This repository contains **manual test cases, test scenarios, and test documentation** for the open-source eCommerce platform [nopCommerce](https://demo.nopcommerce.com/).
 
 ## Project Overview
 - **Project Name:** Manual Software Testing (nopCommerce)  
